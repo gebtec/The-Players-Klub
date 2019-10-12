@@ -1,0 +1,7 @@
+<settings>
+<category label="Connection Settings">
+     <setting id="username" type="text" label="Username" default="user"/>
+     <setting id="password" type="text" option="hidden" label="Password" default="pass"/>	 
+</category> 
+
+</settings>
